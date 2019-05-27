@@ -1,4 +1,4 @@
-# Nimiq-GPU-Miner-NoncerPro-GPU-miner
+# Nimiq-GPU-Miner-NoncerPro-GPU-miner 0noncerpro-cuda v3.1.0
 Nimiq GPU Miner NoncerPro NoncerPro is a powreful GPU miner with local statistics API and is compatible with HiveOS.
 
 Nimiq GPU miner for Nvidia graphic cards.
