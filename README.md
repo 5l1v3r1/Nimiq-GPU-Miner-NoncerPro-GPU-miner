@@ -55,3 +55,26 @@ re my best parameters for 1080 ti on Linux and Windows:
 
 Linux: --threads=4 --batchsize=50
 Windows: --threads=2 --batchsize=92
+
+NoncerPro OpenCL v2.0.0
+
+Changelog:
+
+~10% hashrate improvement
+RX580 8GB (--threads=2 --batchsize=76) with mem 2200 --> 218 kh/s
+Vega64 (--threads=2 --batchsize=76) with mem 1100 --> +410 kh/s
+Notice: Make sure you use --threads=2.
+Brand new responsive API with per device stats
+Default port is 3000. Run the miner and open http://localhost:3000 on your browser.
+If you need raw JSON data, browse http://localhost:3000/api
+Instant device initialization after first run
+This version, saves compiled binary files and loads them in the next runs instead of the time-consuming recompilling process.
+Revised multi-threading system
+Best performance is with --threads=2
+Added device/worker name support
+Fixed HiveOS hashrate stats issue
+Updated to Nimiq core v1.4.3
+Fixed stability issues of Nano clients
+Increased dev fee to 2%
+This 1% increase is required for further improvements on hashrate and power consumption
+Fixed a bug in dev fee pool switching
