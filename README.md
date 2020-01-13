@@ -1,3 +1,4 @@
+<p><a href="https://safe.nimiq.com/#_request/NQ09715YQNGBC4NF77K9P9SPUCUQ8L59RGHE_" rel="nofollow"><img src="https://camo.githubusercontent.com/5c9509625acb1259331ddd03a23e3e53a18778ca/68747470733a2f2f7777772e6e696d69712e636f6d2f6163636570742d646f6e6174696f6e732f696d672f646f6e6174696f6e42746e496d672f676f6c642d736d616c6c2e737667" alt="Donate NIM" data-canonical-src="https://www.nimiq.com/accept-donations/img/donationBtnImg/gold-small.svg" style="max-width:100%;"></a></p>
 # Nimiq-GPU-Miner-NoncerPro-CUDA NVIDIA GPU-v3.1.0 - AMD Open CL 2.0
 Nimiq GPU Miner NoncerPro NoncerPro is a powreful GPU miner with local statistics API and is compatible with HiveOS.
 
@@ -78,3 +79,5 @@ Fixed stability issues of Nano clients
 Increased dev fee to 2%
 This 1% increase is required for further improvements on hashrate and power consumption
 Fixed a bug in dev fee pool switching
+
+<p><a href="https://safe.nimiq.com/#_request/NQ09715YQNGBC4NF77K9P9SPUCUQ8L59RGHE_" rel="nofollow"><img src="https://camo.githubusercontent.com/5c9509625acb1259331ddd03a23e3e53a18778ca/68747470733a2f2f7777772e6e696d69712e636f6d2f6163636570742d646f6e6174696f6e732f696d672f646f6e6174696f6e42746e496d672f676f6c642d736d616c6c2e737667" alt="Donate NIM" data-canonical-src="https://www.nimiq.com/accept-donations/img/donationBtnImg/gold-small.svg" style="max-width:100%;"></a></p>
