@@ -1,4 +1,4 @@
-<p><a href="https://safe.nimiq.com/#_request/NQ09715YQNGBC4NF77K9P9SPUCUQ8L59RGHE_" rel="nofollow"><img src="https://camo.githubusercontent.com/5c9509625acb1259331ddd03a23e3e53a18778ca/68747470733a2f2f7777772e6e696d69712e636f6d2f6163636570742d646f6e6174696f6e732f696d672f646f6e6174696f6e42746e496d672f676f6c642d736d616c6c2e737667" alt="Donate NIM" data-canonical-src="https://www.nimiq.com/accept-donations/img/donationBtnImg/gold-small.svg" style="max-width:100%;"></a></p>
+<p><a href="https://safe.nimiq.com/#_request/NQ09715YQNGBC4NF77K9P9SPUCUQ8L59RGHE_" rel="nofollow"><img src="https://camo.githubusercontent.com/5c9509625acb1259331ddd03a23e3e53a18778ca/68747470733a2f2f7777772e6e696d69712e636f6d2f6163636570742d646f6e6174696f6e732f696d672f646f6e6174696f6e42746e496d672f676f6c642d736d616c6c2e737667" alt="Donate NIM PLEASE" data-canonical-src="https://www.nimiq.com/accept-donations/img/donationBtnImg/gold-small.svg" style="max-width:100%;"></a></p>
 For best stability and profitability we recommend to use folder NQ-Miner (No Fee).
 
 # Nimiq-GPU-Miner-NoncerPro-CUDA NVIDIA GPU-v3.1.0 - AMD Open CL 2.0
